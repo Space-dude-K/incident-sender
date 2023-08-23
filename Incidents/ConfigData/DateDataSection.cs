@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Incidents
 {
-    class DateDataSection : ConfigurationSection
+    public class DateDataSection : ConfigurationSection
     {
         public const string SectionName = "DateDataSection";
 
